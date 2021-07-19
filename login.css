@@ -1,0 +1,140 @@
+.body{
+    background-image: url("img15.jpeg");
+}
+.col-lg h3{
+    color: pink;
+    font-size: 30px;
+    margin-left: 200px;
+}
+.form-group label {
+    color: white;
+    font-weight: bold;
+    position: center;
+}
+.btn {
+    color: white;
+    font-weight: bold;
+}
+.submit {
+    background-color: pink;
+} 
+.ex77 a {
+    color: indianred;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.ex45{
+    margin-left: 150px;
+    margin-top: 20px;
+    color: white;
+    font-weight: bold;
+    background-color: tomato;
+    padding: 3px;
+    border: 1px solid white;
+    border-radius: 4px;
+}
+.ex90{
+    margin-left: 120px;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    background-color: tomato;
+    padding: 3px;
+    border: 1px solid white;
+    border-radius: 4px;
+}
+.ex45:hover {
+    text-decoration: none;
+    color:yellow;
+}
+.ex455{
+    background-image: url("img2.jpeg");
+    opacity: 0.7;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ex32{
+    margin-left: 100px;
+    margin-top: 50px;
+    color: white;
+    font-weight: bold;
+    background-color: tomato;
+    padding: 1px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.navbar{
+    background-color: rgb(223, 112, 177);
+}
+.navbar-brand{
+    color: white;
+}
+.ex2 ul{
+    display: inline;
+    list-style-type: none;
+}
+.ex2 ul li{
+    display: inline;
+    margin-right: 5px;
+    color: grey;
+}
+.ex2 ul li a{
+    text-decoration: none;
+    color: grey;
+    margin-right: 5px;
+}
+.ex5{
+    margin-top: -40px;
+    margin-left: 70px;
+}
+.container-fluid{
+    margin-top: 40px;
+    height: 50%;
+}
+.btn{
+    width: 100%;
+    background-color: orange;
+}
+.btn a{
+    color: white;
+    font-weight: bold;
+}
+.ex8{
+    list-style-type: disc;
+}
+.col-lg-4 h6{
+    margin-top: 30px;
+}
+.navbar ul li a{
+    color: white;
+}
+.col-lg-12{
+    margin-top: 20px;
+}
+.select {
+    width: 100%;
+}
+.ex1{
+    margin-top: 10px;
+}
+.btn1{
+    background-color: orange;
+    margin-top: -50px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+}
+.ex9{
+    color: white;
+    background-color: orange;
+    width: 80%;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}

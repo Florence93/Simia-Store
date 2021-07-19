@@ -1,0 +1,254 @@
+.body {
+    padding: 0;
+    margin: 0;
+    background: #f2f6e9;
+    box-sizing: border-box;
+}
+.navbar {
+    background-color: rgb(223, 112, 177);
+    display: inline;
+    margin-top: 2%;
+    padding: 10px;
+}
+.nav-link,
+.navbar-brand {
+    color: #fff;
+    cursor: pointer;
+}
+@media only screen and (max-width: 768px) {
+    navbar-collapse nav-link {
+      background-color: lightblue;
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+  }
+.nav-item{
+    float: left;
+    list-style: none;
+}
+.dropdown-menu a{
+    color: rgb(204, 95, 95);
+}
+.dropdown-menu{
+    margin-top: 5px;
+}
+.navbar span {
+    margin-top: -5px;
+}
+.nav-link {
+    margin-right: 1em !important;
+    margin-left: em;
+    margin-top: 0em;
+}
+.nav-link:hover {
+    color: #000;
+}
+.nav-link:active {
+    color: rgb(204, 95, 95);
+}
+.navbar-collapse {
+    justify-content: block;
+    list-style-type: none;
+}
+.button{
+    justify-content: center;
+    background-color: rgb(204, 95, 95);
+    border-radius: 5px;
+}
+.btn{
+    border-radius: 5px;
+}
+.carousel{
+    background: #f2f6e9;
+    height: 40%;
+    justify-items: center;
+    justify-content: center;
+    position: relative;
+}
+.carousel-item{
+    position: absolute;
+    text-align: center;
+    min-height: 280px;
+    justify-content:    center;
+    justify-items: center;
+    /* Prevent carousel from being distorted if for some reason image doesn't load */
+}
+.bs-example{ 
+    margin: 20px;
+}
+h2{
+    color:rgb(204, 95, 95);
+}
+.ex1 {
+    color: skyblue;
+    list-style: none;
+}
+.container ul p {
+    font-size: 30px;
+    color:rgb(204, 95, 95);
+    text-decoration: underline;
+    margin-top: 10px;
+}
+
+.container {
+    margin-top: 5em;
+}
+.container ul li {
+    font-size: 25px;
+}
+.ul li a{
+    text-decoration: none;
+    list-style: none;
+}
+.ex4 {
+    color: white;
+}
+.features .btn {
+    background-color: rgb(204, 95, 95);
+    border: 1px solid  rgb(204, 95, 95);
+}
+.page-footer {
+    margin-top: 4em;
+    background-color: gray;
+    color: white;
+    padding: 60px 0 30px;
+}
+.footer-copyright {
+    color: white;
+    padding: 40px 0;
+    margin-top: 5em;
+}
+.ex6 {
+    margin-top: -8em;
+}
+.dropdown-item {
+    display: block;
+}
+.button:hover {
+    background-color: rgb(230, 195, 195);
+}
+.features ul li {
+    list-style: none;
+}
+.col-lg-3 {
+    padding: 20px;
+}
+.ex9{
+    color: rgb(204, 95, 95);
+}
+.features h2{
+    margin-left: 10em;
+    margin-top: 5em;
+    color: rgb(204, 95, 95);
+}
+.header{
+    background: radial-gradient(#fff,#ffd6d6);
+}
+.ex55{
+    margin-left: 25em;
+    margin-top: 8em;
+}
+.page-header h3{
+    color: white;
+    font-weight: bold;
+    margin-top: -10em;
+
+}
+.col-lg-6{
+    background: radial-gradient(#fff,#ffd6ff);
+    color: gray;
+}
+.col-lg-6 h3{
+    margin-top: 4em;
+    max-width: 100%;
+}
+.col-lg-3{
+    justify-content: space-between;
+}
+.col-lg-3 p {
+    color:rgb(204, 95, 95);
+}
+.footer-img {
+    display: inline;
+}
+.cont2{
+    margin-left: 300px;
+    margin-top: 70px;
+    color: hotpink;
+}
+.team .card {
+    background: radial-gradient(#fff, #ffd6ff);
+    border: none;
+} 
+.card-title{
+    color: grey;
+}
+.card-text {
+    color: grey;
+}
+.header {
+    background-image: url('img10.jpeg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+.overlay {
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    left: 0;
+    top: 0;
+    background: rgba(0, 0, 0, 0.6);
+}
+.description {
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -55%);
+    text-align: center;
+}
+.description h1 {
+    color: deeppink;
+}
+.description p {
+    color: #fff;
+    font-size: 1.3rem;
+    line-height: 1.5;
+}
+.description button {
+    border:1px solid gray;
+    background: darksalmon;
+    border-radius: 0;
+    color:#fff;
+}
+.description button:hover {
+    border:1px solid #fff;
+    background:#fff;
+    color:#000;
+}
+.page-header{
+    margin-top: 20px;
+}
+.nav-item i {
+    color: white;
+}
+.card-body i{
+    color: yellow;
+}
+.col-lg-3 i{
+    color: yellow;
+}
+.navbar ul li i{
+    padding: 5px;;
+}
+.page-footer .container{
+    margin-top: -15px;
+}
+.ex44{
+    margin-right: 50px;
+}
+
+
+
+

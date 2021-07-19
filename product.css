@@ -1,0 +1,83 @@
+.body {
+    padding: 0;
+    margin: 0;
+    background: #f2f6e9;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: rgb(223, 112, 177);
+}
+.navbar-brand{
+    color: white;
+}
+.dropdown-menu a{
+    color: rgb(223, 112, 177);
+    background-color: grey;
+}
+.ex2 ul{
+    display: inline;
+    list-style-type: none;
+}
+.ex2 ul li{
+    display: inline;
+    margin-right: 5px;
+    color: grey;
+}
+.ex2 ul li a{
+    text-decoration: none;
+    color: grey;
+    margin-right: 5px;
+}
+.ex5{
+    margin-top: -40px;
+    margin-left: 70px;
+}
+.container-fluid{
+    margin-top: 40px;
+    height: 50%;
+}
+.btn{
+    width: 100%;
+    background-color: orange;
+}
+.btn a{
+    color: white;
+    font-weight: bold;
+}
+.ex8{
+    list-style-type: disc;
+}
+.col-lg-4 h6{
+    margin-top: 30px;
+}
+.navbar ul li a{
+    color: white;
+}
+.col-lg-12{
+    margin-top: 20px;
+}
+.select {
+    width: 100%;
+}
+.ex1{
+    margin-top: 10px;
+}
+.btn1{
+    background-color: orange;
+    margin-top: -50px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+}
+.ex9{
+    color: white;
+    background-color: orange;
+    width: 80%;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
